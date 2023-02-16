@@ -1,0 +1,24 @@
+ <!-- xml de la actividad 2 -->
+<?xml version="1.0" encoding="UTF-8"?>
+ <!-- Vinculamos el xml con el archivo xsl -->
+<?xml-stylesheet type="text/xsl" href="act2.xsl"?>
+ <!-- Creamos un xml con datos de una libreria, estos datos serán los que saldrán en la tabla -->
+  <!-- Dentro del root libreria van los diferentes libros con sus respectivos datos, en este caso nombre y autor. -->
+<libreria>
+<libro>
+    <nombre>El juego del alma </nombre>
+    <autor>Javier Castillo </autor>
+</libro>
+<libro>
+    <nombre>La casa de los enigmas</nombre>
+    <autor>Alexandra Benedict </autor>
+</libro>
+<libro>
+    <nombre>Susurran tu nombre </nombre>
+    <autor>Alex North </autor>
+</libro>
+<libro>
+    <nombre>Desconexión </nombre>
+    <autor>Neal Shusterman </autor>
+</libro>
+</libreria>
