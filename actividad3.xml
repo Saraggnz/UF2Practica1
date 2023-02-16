@@ -1,0 +1,71 @@
+ <!-- xml de la actividad 3 -->
+<?xml version="1.0" encoding="UTF-8"?>
+ <!-- Vinculamos el xml con el xsl -->
+<?xml-stylesheet type="text/xsl" href="act3.xsl"?>
+ <!-- Creamos un xml con un catalogo de juegos -->
+<juegos_de_pc>
+ <!-- Crearemos 7 columnas con 7 juegos distintos y dentro los datos de esos juegos que saldrán en la tabla -->
+<juego>
+    <nombre> Hogwarts legacy </nombre>
+    <fecha_de_salida>10/02/23 </fecha_de_salida>
+    <precio>59.99 </precio>
+    <genero> Mundo abierto, Fantasía </genero>
+    <desarrollador> Avalanche Software </desarrollador>
+    <editor> Warner Bros. Games </editor>
+</juego>
+
+<juego>
+    <nombre> Sons of de forest </nombre>
+    <fecha_de_salida>23/02/23 </fecha_de_salida>
+    <precio> 29.99 </precio>
+    <genero> Supervivencia </genero>
+    <desarrollador> Endnight Games Ltd </desarrollador>
+    <editor> Newnight</editor>
+</juego>
+
+<juego>
+    <nombre> Phasmophobia </nombre>
+    <fecha_de_salida> 18/09/20 </fecha_de_salida>
+    <precio> 11.59 </precio>
+    <genero> Terror </genero>
+    <desarrollador> Kinetic Games</desarrollador>
+    <editor> Kinetic Games </editor>
+</juego>
+
+<juego>
+    <nombre> Red dead redemption 2 </nombre>
+    <fecha_de_salida> 5/12/19 </fecha_de_salida>
+    <precio> 59.99 </precio>
+    <genero> Mundo abierto, Aventura </genero>
+    <desarrollador> Rockstar Games </desarrollador>
+    <editor> Rockstar Games</editor>
+</juego>
+
+<juego>
+    <nombre> The Quarry </nombre>
+    <fecha_de_salida> 10/06/22 </fecha_de_salida>
+    <precio> 59.99 </precio>
+    <genero> Terror </genero>
+    <desarrollador> Supermassive Games </desarrollador>
+    <editor> 2K Games</editor>
+</juego>
+
+<juego>
+    <nombre> Back 4 Blood </nombre>
+    <fecha_de_salida> 12/10/21  </fecha_de_salida>
+    <precio> 59.99 </precio>
+    <genero> Zombies </genero>
+    <desarrollador> Turtle Rock Studios </desarrollador>
+    <editor> Warner Bros. Games</editor>
+</juego>
+
+<juego>
+    <nombre> Brotato </nombre>
+    <fecha_de_salida> 27/09/22 </fecha_de_salida>
+    <precio> 4.99 </precio>
+    <genero> Roguelike </genero>
+    <desarrollador> Blobfish </desarrollador>
+    <editor> Blobfish </editor>
+</juego>
+
+</juegos_de_pc>
