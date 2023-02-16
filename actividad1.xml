@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <!-- Vinculamos el xml con el archivo xsl -->
+<?xml-stylesheet type="text/xsl" href="act1.xsl"?>
+ <!-- Ponemos el texto que queremos que salga -->
+<title>
+  <text>Hello world</text>
+</title>
